@@ -1,5 +1,5 @@
 {
-  "name": "axios-with-timings",
+  "name": "@jasonfill/axios-with-timings",
   "version": "1.0.1",
   "description": "Adds timers to axios HTTP/HTTPS calls.",
   "main": "index.js",
