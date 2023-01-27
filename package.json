@@ -1,6 +1,6 @@
 {
   "name": "axios-with-timings",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Adds timers to axios HTTP/HTTPS calls.",
   "main": "index.js",
   "scripts": {
@@ -10,9 +10,9 @@
   "author": "Jason Fill",
   "license": "MIT",
   "repository": {
-		"type": "git",
-		"url": "git+https://github.com/jasonfill/axios-with-timings.git"
-	},
+    "type": "git",
+    "url": "git+https://github.com/jasonfill/axios-with-timings.git"
+  },
   "homepage": "https://github.com/jasonfill/axios-with-timings#readme",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
