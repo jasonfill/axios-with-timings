@@ -18,7 +18,7 @@
     "registry": "https://npm.pkg.github.com"
   },
   "dependencies": {
-    "axios": "^1.2.5",
+    "axios": "^1.6.0",
     "defer-to-connect": "^2.0.1",
     "shimmer": "^1.2.1"
   },
